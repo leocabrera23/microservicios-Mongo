@@ -1,0 +1,4 @@
+com\leo\microservicio\controller\ProductController.class
+com\leo\microservicio\entity\ProductEntity.class
+com\leo\microservicio\repository\ProductRepository.class
+com\leo\microservicio\MicroservicioApplication.class
